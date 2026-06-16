@@ -3,7 +3,7 @@ projet de mise en page d'une fiche de score à partir de données fournies
 # Processus de Développement - Composant de Résumé des Résultats
 
 
-## 🎯 Vue d'ensemble
+## Vue d'ensemble
 
 Ce projet est un composant de résumé des résultats de test, construit avec HTML et CSS purs. Le composant affiche :
 - Un score global (76/100) avec un dégradé attrayant
@@ -15,7 +15,7 @@ Ce projet est un composant de résumé des résultats de test, construit avec HT
 
 ---
 
-## 📁 Structure du projet
+## Structure du projet
 
 ```
 .
@@ -31,7 +31,7 @@ Ce projet est un composant de résumé des résultats de test, construit avec HT
 
 ---
 
-## 🔧 Processus de développement
+## Processus de développement
 
 ### **Étape 1 : Analyse du design**
 
@@ -170,7 +170,7 @@ Chaque catégorie (Réaction, Mémoire, Verbal, Visuel) a reçu :
 
 ---
 
-## 🏗️ Architecture HTML
+##  Architecture HTML
 
 ### Structure générale
 
@@ -210,7 +210,7 @@ Chaque catégorie (Réaction, Mémoire, Verbal, Visuel) a reçu :
 
 ---
 
-## 🎨 Implémentation CSS
+## Implémentation CSS
 
 ### Techniques principales utilisées
 
@@ -267,7 +267,7 @@ gap: 12px;             /* Espacement entre items flex */
 
 ---
 
-## 🔑 Points clés de l'implémentation
+##  Points clés de l'implémentation
 
 ### 1. **Container wrapper avec margin auto**
 
@@ -325,7 +325,7 @@ padding: ...;
 
 ---
 
-## ⚙️ Défis et solutions
+## Défis et solutions
 
 ### Défi 1 : Centrer le score verticalement et horizontalement
 
@@ -393,7 +393,7 @@ padding: ...;
 
 ---
 
-## 📚 Apprentissages
+## Apprentissages
 
 ### 1. **Flexbox est puissant**
 
@@ -427,7 +427,7 @@ padding: ...;
 
 ---
 
-## 🚀 Prochaines étapes recommandées
+## Prochaines étapes recommandées
 
 1. **Media queries** pour adapter le layout au mobile
 2. **Transitions** sur les états hover/focus du bouton
@@ -437,7 +437,7 @@ padding: ...;
 
 ---
 
-## 👨‍💻 Conclusion
+## Conclusion
 
 Ce projet démontre les principes fondamentaux du développement frontend moderne :
 - Structure HTML sémantique
