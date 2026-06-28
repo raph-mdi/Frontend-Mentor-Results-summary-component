@@ -4,18 +4,12 @@
         height: 100vh; 
         display: flex; 
         flex-direction: column;
+        background-color: white;
         
     }
     #Section1, #Section2 {
         width: 100%;
         height: 50%; 
-    }
-
-    #Section1 {
-        background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-} 
-    #Section2 {
-        background-color: white; 
     }
 }
 body {
